@@ -1,0 +1,103 @@
+/usr/bin/python3.5 /home/hydra/miri/adm/labs/assignment.2/src/run_predictors.py
+
+Testing titanicTr.txt
+=======================
+
+- Decision Tree
+Training time: 0.32
+Testing time: 0.01
+Total accuracy: 0.78
+
+- Decision Tree with random input
+Training time: 0.23
+Testing time: 0.01
+Total accuracy: 0.79
+
+- Tree Bagging
+Training time: 1.68
+Testing time: 0.1
+Total accuracy: 0.77
+
+- Random Forest
+Training time: 0.76
+Testing time: 0.08
+Total accuracy: 0.75
+
+- Forest with random input
+Training time: 1.66
+Testing time: 0.1
+Total accuracy: 0.78
+
+- Random Forest with random input
+Training time: 0.8
+Testing time: 0.08
+Total accuracy: 0.74
+
+Testing pimaTr.txt
+=======================
+
+- Decision Tree
+Training time: 8.04
+Testing time: 0.0
+Total accuracy: 0.75
+
+- Decision Tree with random input
+Training time: 7.69
+Testing time: 0.0
+Total accuracy: 0.76
+
+- Tree Bagging
+Training time: 30.76
+Testing time: 0.03
+Total accuracy: 0.69
+
+- Random Forest
+Training time: 10.6
+Testing time: 0.04
+Total accuracy: 0.65
+
+- Forest with random input
+Training time: 40.2
+Testing time: 0.04
+Total accuracy: 0.71
+
+- Random Forest with random input
+Training time: 11.1
+Testing time: 0.04
+Total accuracy: 0.63
+
+Testing banknote.txt
+=======================
+
+- Decision Tree
+Training time: 36.09
+Testing time: 0.01
+Total accuracy: 0.93
+
+- Decision Tree with random input
+Training time: 39.01
+Testing time: 0.01
+Total accuracy: 0.9
+
+- Tree Bagging
+Training time: 135.13
+Testing time: 0.05
+Total accuracy: 0.87
+
+- Random Forest
+Training time: 114.51
+Testing time: 0.06
+Total accuracy: 0.86
+
+- Forest with random input
+Training time: 212.21
+Testing time: 0.06
+Total accuracy: 0.88
+
+- Random Forest with random input
+Training time: 119.45
+Testing time: 0.06
+Total accuracy: 0.83
+
+Process finished with exit code 0
+
